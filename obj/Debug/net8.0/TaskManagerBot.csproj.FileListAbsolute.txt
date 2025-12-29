@@ -21,3 +21,4 @@ C:\TaskManagerBot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abst
 C:\TaskManagerBot\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\TaskManagerBot\bin\Debug\net8.0\Npgsql.dll
 C:\TaskManagerBot\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\TaskManagerBot\obj\Debug\net8.0\TaskManagerBot.sourcelink.json
