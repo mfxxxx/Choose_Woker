@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskManagerBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+886ec4c4ea8a8cc06478ea547a21fc9cd07001a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68b1a2108f12a723ed1a17d6e30a5f51baaace85")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskManagerBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskManagerBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

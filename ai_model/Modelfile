@@ -1,4 +1,0 @@
-﻿FROM phi3:mini
-ADAPTER ./adapter_model.safetensors
-
-SYSTEM "You are a manager assistant. Return 3 executors."
